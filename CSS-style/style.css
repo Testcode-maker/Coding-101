@@ -1,0 +1,34 @@
+body{
+    background-color: lightsalmon;
+}
+
+h1{
+font-size: 30px;
+color: #3BDDF0;
+}
+
+h2{
+font-size: 30px;
+color: indigo;
+}
+
+h2{
+color: lawngreen;
+}
+
+.nibba{
+font-size: 27px;
+color: black;
+}
+
+.black{
+text-transform: uppercase;
+}
+
+.nibba.black{
+color: maroon;
+}
+
+h1 span{
+color: red;
+}
